@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "aid.png",
+	"frame": {"x":0,"y":32,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [32,32], [0,32], [0,0], [32,0] ],
+	"verticesUV": [ [32,64], [0,64], [0,32], [32,32] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "bash.png",
+	"frame": {"x":32,"y":0,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [32,30], [0,30], [0,0], [32,0] ],
+	"verticesUV": [ [64,30], [32,30], [32,0], [64,0] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "energy.png",
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [32,32], [0,32], [0,0], [32,0] ],
+	"verticesUV": [ [32,32], [0,32], [0,0], [32,0] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "fire.png",
+	"frame": {"x":90,"y":30,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [26,32], [6,32], [6,0], [26,0] ],
+	"verticesUV": [ [110,62], [90,62], [90,30], [110,30] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "light.png",
+	"frame": {"x":64,"y":30,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":30},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [29,30], [3,30], [3,0], [29,0] ],
+	"verticesUV": [ [90,60], [64,60], [64,30], [90,30] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "phys.png",
+	"frame": {"x":64,"y":0,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [32,25], [0,31], [0,21], [14,7], [32,1] ],
+	"verticesUV": [ [96,24], [64,30], [64,20], [78,6], [96,0] ],
+	"triangles": [ [0,3,4], [2,0,1], [2,3,0] ]
+},
+{
+	"filename": "shadow.png",
+	"frame": {"x":96,"y":0,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":30},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [29,30], [3,30], [3,0], [29,0] ],
+	"verticesUV": [ [122,30], [96,30], [96,0], [122,0] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "splash.png",
+	"frame": {"x":32,"y":33,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [32,30], [0,30], [0,2], [32,2] ],
+	"verticesUV": [ [64,61], [32,61], [32,33], [64,33] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+{
+	"filename": "water.png",
+	"frame": {"x":110,"y":30,"w":20,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":20,"h":31},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0.1},
+	"vertices": [ [26,32], [6,32], [6,1], [26,1] ],
+	"verticesUV": [ [130,61], [110,61], [110,30], [130,30] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GameSpriteText.png",
+	"format": "RGBA8888",
+	"size": {"w":130,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f37ac839ab8f6946bab6ce73f0afce5a:9e1b9c8a26b68246a9b15d8930b6a14f:bca7e8b0c3bb5b993960cc922ecf257b$"
+}
+}

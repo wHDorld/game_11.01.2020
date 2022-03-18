@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 930b45f22c7faf848b7cac789d10d17c, type: 3}
+  m_Name: FireArrowItem
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 0}
+  projectileObject:
+    stats:
+      Speed: 0.7
+      LifeTime: 7
+      LifeTimeAfterStock: 4
+      DamageMultiply: 0.1
+      HitType: 1
+      IgnoreObstacle: 0
+      Rarity: 0
+      DamageType: 3
+      listOfInitiateModules: 0000000001000000
+    animation:
+      rescale_time: 0.1
+      x_direction:
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        speed: 0
+      y_direction:
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        speed: 0
+      rotate_z_axis:
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        speed: 0
+      rotate_x_axis:
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        speed: 0
+      rotate_y_axis:
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        speed: 0

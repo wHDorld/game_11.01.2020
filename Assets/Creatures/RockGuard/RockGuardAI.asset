@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd0d09dc72f07d41b21cd8c1381b1b5, type: 3}
+  m_Name: RockGuardAI
+  m_EditorClassIdentifier: 
+  NAME: Rock Guard
+  TAG: Archer
+  mobType: 1
+  initiateStat:
+    initial_controll_modules: 0000000005000000
+    initialAbilities: {fileID: 11400000, guid: 4962e1903f5979f4cbaa72a810ad6391, type: 2}
+    random_aim_angle: 1
+  default_behaviour:
+    actual_distance:
+    - 10
+    - 20
+    random_move_timing:
+    - 1
+    - 2
+    shoot_count_per_fire: 5
+    fire_reload: 4
+    actual_speed_use: 0.045
+  all_behaviours: []

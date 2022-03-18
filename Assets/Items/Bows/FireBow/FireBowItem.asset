@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a7d68bf7e927f9448f122b87d1734c7, type: 3}
+  m_Name: FireBowItem
+  m_EditorClassIdentifier: 
+  Name: 15
+  Description: 0
+  LQ_Preview: {fileID: 0}
+  HQ_Preview: {fileID: 21300000, guid: 8b1de8368e193564bb05465ca16e6721, type: 3}
+  stats:
+    RateOfFire: 1000
+    ReloadTime: 0
+    TensionPerSecond: 1
+    MaxAmmo: 0
+    DamageMultiply: 0
+    MaxDistance: 0
+    Penetrating: 0
+    Rarity: 3
+    Stamina_PerShot: 0.02
+    StaminaSpeed_WhileTension: 0.3
+    shooting_object: {fileID: 3711319814330413816, guid: c3ea02e46964f8348aaef6dee8a8ab0e,
+      type: 3}
+    shooting_object_info: {fileID: 11400000, guid: b6f3b0d9f8e9bf34abc7065b18a72754,
+      type: 2}
+    shooting_effect: {fileID: 7188994667279542845, guid: 66edff95c599cc64ea234326e9da24ea,
+      type: 3}
+    shooting_effect_live: 5
+    listOfInitiatePermanentModules: 02000000
+    listOfInitiateTemporaryModules: 

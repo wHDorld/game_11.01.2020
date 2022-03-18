@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a7d68bf7e927f9448f122b87d1734c7, type: 3}
+  m_Name: Weapon
+  m_EditorClassIdentifier: 
+  Name: 4
+  Description: 4
+  LQ_Preview: {fileID: 0}
+  HQ_Preview: {fileID: 21300000, guid: 2427605ab26997a4f956400d29826046, type: 3}
+  stats:
+    RateOfFire: 1000
+    ReloadTime: 1
+    TensionPerSecond: 1
+    MaxAmmo: 6
+    DamageMultiply: 0
+    MaxDistance: 15
+    Penetrating: 1
+    Rarity: 2
+    shooting_object: {fileID: 6832418125866152007, guid: 840826ae6233b6943a3065ed121a0c59,
+      type: 3}
+    shooting_object_info: {fileID: 11400000, guid: a604623f4bd032442bbb2f381d69e104,
+      type: 2}
+    shooting_effect: {fileID: 6273792634354397900, guid: b0e2ea063bfa49e4daad5c2a8f0a19c3,
+      type: 3}
+    shooting_effect_live: 1
+    listOfInitiatePermanentModules: 0200000001000000
+    listOfInitiateTemporaryModules: 

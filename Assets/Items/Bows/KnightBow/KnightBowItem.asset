@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a7d68bf7e927f9448f122b87d1734c7, type: 3}
+  m_Name: KnightBowItem
+  m_EditorClassIdentifier: 
+  Name: 25
+  Description: 0
+  LQ_Preview: {fileID: 0}
+  HQ_Preview: {fileID: 21300000, guid: 70474fee3c7af23429821f611017c18a, type: 3}
+  stats:
+    RateOfFire: 1000
+    ReloadTime: 0
+    TensionPerSecond: 1
+    MaxAmmo: 0
+    DamageMultiply: 0
+    MaxDistance: 0
+    Penetrating: 0
+    Rarity: 0
+    Stamina_PerShot: 0.3
+    StaminaSpeed_WhileTension: 0
+    shooting_object: {fileID: 8075690058338376366, guid: 0d41969bb1164d048bbdfdde97808d1e,
+      type: 3}
+    shooting_object_info: {fileID: 11400000, guid: c19613ee81b59b14f9f148351656055f,
+      type: 2}
+    shooting_effect: {fileID: 3104690499679872399, guid: f25ee66d0a1db1c4f82ff62235845fc0,
+      type: 3}
+    shooting_effect_live: 2
+    listOfInitiatePermanentModules: 02000000
+    listOfInitiateTemporaryModules: 

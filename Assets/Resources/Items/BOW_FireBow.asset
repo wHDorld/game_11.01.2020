@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b516d28b5c22cf4384849a8e9a6d292, type: 3}
+  m_Name: BOW_FireBow
+  m_EditorClassIdentifier: 
+  NAME: 0
+  DESCRIPTION: 0
+  HQ_Image: {fileID: 21300000, guid: 2427605ab26997a4f956400d29826046, type: 3}
+  LQ_Image: {fileID: 0}
+  current_objects:
+  - {fileID: 11400000, guid: 62db5fd351647514b865898aa882f97a, type: 2}
+  - {fileID: 2430419352343603991, guid: 829e84f1834177c4a8ef13917aa55f7a, type: 3}
+  - {fileID: 22100000, guid: 684f392ebcce53c4f93c96896b2f01f6, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b516d28b5c22cf4384849a8e9a6d292, type: 3}
+  m_Name: BOW
+  m_EditorClassIdentifier: 
+  NAME: 0
+  DESCRIPTION: 0
+  HQ_Image: {fileID: 21300000, guid: 8b1de8368e193564bb05465ca16e6721, type: 3}
+  LQ_Image: {fileID: 0}
+  current_objects:
+  - {fileID: 11400000, guid: 9983c18137442924eb20aad696e73cc0, type: 2}
+  - {fileID: 5956019068233493756, guid: d700198d4e29ccf44b2028536e7c6cdf, type: 3}
+  - {fileID: 22100000, guid: 8c1b79cce06a9094ca8b252513eaf376, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a7d68bf7e927f9448f122b87d1734c7, type: 3}
+  m_Name: RockBowItem
+  m_EditorClassIdentifier: 
+  Name: 20
+  Description: 0
+  LQ_Preview: {fileID: 0}
+  HQ_Preview: {fileID: 21300000, guid: 5ef85273edd4a5f4fb84f5941f543071, type: 3}
+  stats:
+    RateOfFire: 1000
+    ReloadTime: 0
+    TensionPerSecond: 0.6
+    MaxAmmo: 0
+    DamageMultiply: 0
+    MaxDistance: 0
+    Penetrating: 0
+    Rarity: 0
+    Stamina_PerShot: 0.5
+    StaminaSpeed_WhileTension: 0
+    shooting_object: {fileID: 6105242419780477587, guid: ece9dbad1bf495a429e67aaddf0eaa50,
+      type: 3}
+    shooting_object_info: {fileID: 11400000, guid: c19613ee81b59b14f9f148351656055f,
+      type: 2}
+    shooting_effect: {fileID: 1223407976335364026, guid: defc68990d3f4cb4ea8ae05cd2da272f,
+      type: 3}
+    shooting_effect_live: 2
+    listOfInitiatePermanentModules: 02000000
+    listOfInitiateTemporaryModules: 
